@@ -1,0 +1,5 @@
+/* Scroll Stack CSS - Minimal */
+.scroll-stack-card {
+    /* Ensure cards have a background if not provided */
+    background-color: white;
+}
